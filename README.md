@@ -19,19 +19,18 @@
 <!-- Contact info -->
 <div> 
     <h3 align="center">
-        Connect with me
+        Contact with me
     </h3>
     <div align="center">
         <a href="https://www.linkedin.com/in/fabricio-alexander-porras-morera-8380bb210/" target="blank">
             <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="linkedin icon" width="40" height="40" /> 
         </a>
-        <!-- Agregar espacio o elemento de bloque aquí -->
         <span>&nbsp;</span>
         <a href="https://twitter.com/FabriTgm34150" target="blank">
             <img src="https://toppng.com/public/uploads/preview/twitter-x-icon-logo-116902890413xbfexhf8l.webp" alt="twitter icon" width="40" height="40"/> 
         </a>
         <span>&nbsp;</span>
-        <a href="faporras05@hotmail.com" target="blank">
+        <a href="mailto:faporras05@hotmail.com" target="blank">
             <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8e5a14fe-448e-46c3-a394-a1ec74801c14.png" alt="outlook icon" width="40" height="40"/> 
         </a>
     </div>
