@@ -36,18 +36,28 @@
     </div>
 </div>
 
-<h3 align="left">Languages</h3>
+<h3 align="left">
+    Languages
+</h3>
 
-<p align="left">  
+<!-- Python -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/>
+</a>
 
-<!-- Android Studio -->
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="android" width="40" height="40"/> 
-</a> 
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
+</a>
 
-<!-- Arduino -->
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="40" height="40"/> 
+<!-- HTML5 -->
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/>
+</a>
+
+<!-- CSS -->
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/>
 </a>
 
 <!-- C++ -->
@@ -60,9 +70,66 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="csharp" width="40" height="40"/>
 </a>
 
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/>
+<!-- Java -->
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/>
+</a>
+
+<!-- Kotlin -->
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" alt="kotlin" width="40" height="40"/>
+</a>
+
+<!-- Go -->
+<a href="https://golang.org" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="go" width="40" height="40"/>
+</a>
+
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/>
+</a> 
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/>
+</a> 
+
+<!-- F# -->
+<a href="https://fsharp.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://georgewfraser.gallerycdn.vsassets.io/extensions/georgewfraser/fsharp-language-server/0.1.28/1619758459854/Microsoft.VisualStudio.Services.Icons.Default" alt="fs" width="40" height="40"/>
+</a> 
+
+<!-- SWI Prolog -->
+<a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" alt="swiprolog" width="40" height="40"/>
+</a> 
+
+<!-- DB2 -->
+<a href="https://www.ibm.com/products/db2/database" target="_blank" rel="noreferrer"> 
+  <img src="https://th.bing.com/th/id/R.14ad788476d926bce2474eb77d3291e5?rik=QLk%2f9d4qwerO%2bQ&riu=http%3a%2f%2fjohanjunkka.com%2fassets%2fimages%2fdb2connect.png&ehk=jBIkpMpUPy2i92bw8QZbndRaSpoWWTCJZG4NWQfNxrI%3d&risl=&pid=ImgRaw&r=0" alt="db2" width="40" height="40"/>
+</a> 
+
+
+<!-- Assembly Emu8086 -->
+<a href="https://emu8086.en.lo4d.com/windows" target="_blank" rel="noreferrer"> 
+  <img src="https://th.bing.com/th/id/R.a067f2b1240841c803ae60fff717a1d5?rik=758Nv0CYDca7Iw&riu=http%3a%2f%2fcdn.canadiancontent.net%2ft%2ficon%2f70%2femu8086---microprocessor-emulator-and-8086-assembl.png&ehk=tOaaHAeXDtpS%2bpgQ6xum8B5SIpzmPYjDGy%2f9Fky43n4%3d&risl=&pid=ImgRaw&r=0" alt="emu8086" width="40" height="40"/>
+</a> 
+
+
+<h3 align="left">
+    Technologies and tools
+</h3>
+<p align="left">  
+    
+<!-- VSCode -->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/>
+</a>
+
+<!-- React -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/>
 </a>
 
 <!-- Figma -->
@@ -75,73 +142,23 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/>
 </a>
 
-<!-- Go -->
-<a href="https://golang.org" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="go" width="40" height="40"/>
-</a>
+<!-- Android Studio -->
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="android" width="40" height="40"/> 
+</a> 
 
-<!-- HTML -->
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/>
-</a>
-
-<!-- Java -->
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/>
-</a>
-
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
-</a>
-
-<!-- Kotlin -->
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" alt="kotlin" width="40" height="40"/>
-</a>
-
-
-<!-- MySQL -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<!-- NeoVim -->
-<a href="https://neovim.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" alt="neovim" width="40" height="40"/>
-</a>
+<!-- Unity -->
+<a href="https://unity.com/es" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="unity" width="40" height="40"/>
+</a> 
 
 <!-- Nodejs -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/>
 </a>
 
-<!-- PostgreSQL -->
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-
-<!-- Python -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/>
-</a>
-
-<!-- React -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/>
-</a>
-
-<!-- VSCode -->
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/>
-</a>
-
-</p>
-
-
-
 <h3>
-    Videoconferencing Platforms
+    Videoconferencing platforms
 </h3>
 
 <!-- Discord -->
@@ -151,7 +168,7 @@
 
 <!-- Microsoft Teams -->
 <a href="https://www.microsoft.com/en-us/microsoft-teams/log-in" width="40" height="40"/>
- <img src="https://www.trainers-direct.com.au/wp-content/uploads/2019/10/teams-1411850-1194339-1.png" alt="Microsoft Teams" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_(2018–present).svg/1200px-Microsoft_Office_Teams_(2018–present).svg.png" alt="Microsoft Teams" width="40" height="40"/>
 </a>
 
 <!-- Google Meetings -->
