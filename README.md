@@ -12,7 +12,7 @@
    <h2 align="center"> I'm a computer engineering student👨‍💻 </h2>
 
    <div align="center"> 
-     <img src="https://th.bing.com/th/id/R.75e7ef7aa27009befb076509382b86b8?rik=wLbMrCLkhDS8tg&pid=ImgRaw&r=0" alt="Programming person gift" height="300"/> 
+     <img src="https://th.bing.com/th/id/R.75e7ef7aa27009befb076509382b86b8?rik=wLbMrCLkhDS8tg&pid=ImgRaw&r=0" alt="Programming person gift" height="220"/> 
     </div>
 </div>
 
@@ -23,15 +23,15 @@
     </h3>
     <div align="center">
         <a href="https://www.linkedin.com/in/fabricio-alexander-porras-morera-8380bb210/" target="blank">
-            <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="linkedin icon" width="40" height="40" /> 
+            <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="linkedin icon" width="45" height="45" /> 
         </a>
         <span>&nbsp;</span>
         <a href="https://twitter.com/FabriTgm34150" target="blank">
-            <img src="https://toppng.com/public/uploads/preview/twitter-x-icon-logo-116902890413xbfexhf8l.webp" alt="twitter icon" width="40" height="40"/> 
+            <img src="https://toppng.com/public/uploads/preview/twitter-x-icon-logo-116902890413xbfexhf8l.webp" alt="twitter icon" width="45" height="45"/> 
         </a>
         <span>&nbsp;</span>
         <a href="mailto:faporras05@hotmail.com" target="blank">
-            <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8e5a14fe-448e-46c3-a394-a1ec74801c14.png" alt="outlook icon" width="40" height="40"/> 
+            <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8e5a14fe-448e-46c3-a394-a1ec74801c14.png" alt="outlook icon" width="45" height="45"/> 
         </a>
     </div>
 </div>
@@ -265,46 +265,15 @@
 
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
 
-<!-- Clear Float -->
-<div style="clear: both;"></div>
-
-<!-- Github stats and most used languages -->
-<div align="center"> 
-  <a href="https://github.com/Johanx22x">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Johanx22x&show_icons=true&theme=nord&hide=contribs,prs&rank_icon=github"
-      alt="My Github stats"
-      height="150"
-    />
-  </a>
-  <a href="https://github.com/Johanx22x">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johanx22x&hide_progress=true&theme=nord"
-      alt="My Language stats"
-      height="150"
-    />
-  </a>
-</div>
-
-<!-- Streak stats -->
-<div align="center">
-  <a href="https://github.com/Johanx22x#gh-dark-mode-only">
-    <img
-       src="https://streak-stats.demolab.com/?user=Johanx22x&background=2E3440&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=81A1C1&ring=81A1C1&locale=en&type=svg"
-       alt="My GitHub streak stats"
-       height="150"
-     />
-  </a>
-</div>
-
-<h3 align="left">Support:</h3>
+<h3 align="end">Give me support <3</h3>
 <p>
-  <a href="https://ko-fi.com/Johanx22x"> 
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Johanx22x" />
+  <a href="https://paypal.me/FabriSDev?country.x=CR&locale.x=es_XC"> 
+    <img align="right" src="https://cdn.freebiesupply.com/logos/large/2x/paypal-icon-logo-png-transparent.png" height="80" width="80" alt="FabriSDev" />
+  </a>
+  <a href="https://ko-fi.com/fabrisdev"> 
+    <img align="right" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ko_fi_logo_icon_169373.png?v=3" height="80" width="80" alt="FabriSDev" />
   </a>
 </p>
-
 <br>
 <br>
