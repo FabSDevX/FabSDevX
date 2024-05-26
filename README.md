@@ -1,7 +1,7 @@
 <!-- Follow me -->
 <div align="end">
     <a href="https://github.com/FabSDev1" target="_blank">
-        <img src="https://img.shields.io/github/followers/Fabricio06?label=Follow&style=social" alt="GitHub Follow">
+        <img src="https://img.shields.io/github/followers/FabSDevX?label=Follow&style=social" alt="GitHub Follow">
     </a>
 </div>
 
