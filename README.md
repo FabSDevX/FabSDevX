@@ -199,7 +199,7 @@
 <!-- Donations -->
 <h3 align="end">Give me support <3</h3>
 <p>
-  <a href="https://paypal.me/FabriSDev?country.x=CR&locale.x=es_XC"> 
+  <a href="https://paypal.me/FabSDevX?country.x=CR&locale.x=en_US"> 
     <img align="right" src="https://cdn.freebiesupply.com/logos/large/2x/paypal-icon-logo-png-transparent.png" height="80" width="80" alt="FabriSDev Paypal" />
   </a>
   <a href="https://ko-fi.com/fabrisdev"> 
